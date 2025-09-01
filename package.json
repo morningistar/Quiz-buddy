@@ -1,6 +1,7 @@
 {
   "name": "quiz-buddy---ai-quiz-generator",
   "private": true,
+  "homepage": "https://github.com/morningistar/Quiz-buddy",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
