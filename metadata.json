@@ -1,0 +1,5 @@
+{
+  "name": " Quiz Buddy - AI Quiz Generator",
+  "description": "An AI-powered quiz generator that takes a topic as input and generates multiple choice questions using the Gemini API. The app automatically checks answers and shows results in a fun, animated UI.",
+  "requestFramePermissions": []
+}
